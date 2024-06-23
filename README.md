@@ -86,3 +86,7 @@ Labro Dev
 ## License
 
 The MIT License (MIT). Please see License File for more information.
+
+## Read more
+
+Read more about this topic on our Substack page: [https://labrodev.substack.com/p/uuid-generation-in-eloquent-models]
